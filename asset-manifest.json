@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ConstraintBoard/static/css/main.a617e044.chunk.css",
+    "main.js": "/ConstraintBoard/static/js/main.f115af5e.chunk.js",
+    "main.js.map": "/ConstraintBoard/static/js/main.f115af5e.chunk.js.map",
+    "runtime-main.js": "/ConstraintBoard/static/js/runtime-main.2e27bdd4.js",
+    "runtime-main.js.map": "/ConstraintBoard/static/js/runtime-main.2e27bdd4.js.map",
+    "static/js/2.7dfbea4e.chunk.js": "/ConstraintBoard/static/js/2.7dfbea4e.chunk.js",
+    "static/js/2.7dfbea4e.chunk.js.map": "/ConstraintBoard/static/js/2.7dfbea4e.chunk.js.map",
+    "static/js/3.999c9dfc.chunk.js": "/ConstraintBoard/static/js/3.999c9dfc.chunk.js",
+    "static/js/3.999c9dfc.chunk.js.map": "/ConstraintBoard/static/js/3.999c9dfc.chunk.js.map",
+    "index.html": "/ConstraintBoard/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ConstraintBoard/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.7dfbea4e.chunk.js.LICENSE.txt": "/ConstraintBoard/static/js/2.7dfbea4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e27bdd4.js",
+    "static/js/2.7dfbea4e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.f115af5e.chunk.js"
+  ]
+}
